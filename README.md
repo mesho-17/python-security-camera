@@ -14,16 +14,16 @@ Ensure Python is installed. You can download Python from the official website: P
 
 Install the required libraries using pip:
 
-```pip install opencv-python```
+`pip install opencv-python`
 
-```pip install winsound```
+`pip install winsound`
 # Usage
 
 Copy and paste the provided code into a Python file (e.g., motion_detection.py).
 
 Run the Python script:
 
-```python motion_detection.py```
+`python motion_detection.py`
 
 A window will open, showing the live webcam feed.
 
