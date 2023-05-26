@@ -16,7 +16,7 @@ Install the required libraries using pip:
 
 ```shell
 pip install opencv-python
-
+```
 `pip install winsound`
 # Usage
 
