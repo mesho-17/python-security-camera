@@ -14,7 +14,7 @@ Ensure Python is installed. You can download Python from the official website: P
 
 Install the required libraries using pip:
 
-`pip install opencv-python`
+```pip install opencv-python```
 
 `pip install winsound`
 # Usage
