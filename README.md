@@ -6,7 +6,7 @@ This Python code detects motion using the webcam and OpenCV library. It captures
 
 Python 3.x
 OpenCV (cv2) library
-winsound library (usually comes pre-installed with Python)
+winsound library (usually comes pre-installed with Python) 
 
 # Installation
 
