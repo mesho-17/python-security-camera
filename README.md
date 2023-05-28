@@ -2,7 +2,7 @@
 
 This Python code detects motion using the webcam and OpenCV library. It captures frames from the webcam and compares them to identify any differences. If significant motion is detected, it draws a rectangle around the moving object and plays a beep sound using the winsound library.
 
-# Prerequisites
+# Prerequisites 
 
 Python 3.x
 OpenCV (cv2) library
