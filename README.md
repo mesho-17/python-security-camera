@@ -8,7 +8,7 @@ Python 3.x
 OpenCV (cv2) library
 winsound library (usually comes pre-installed with Python) 
 
-# Installation
+# Installation 
 
 Ensure Python is installed. You can download Python from the official website: Python.org
 
